@@ -2,5 +2,9 @@
 results_hpl*/
 hpl_results*/
 
+# Raw benchmark logs (large, keep locally only)
+*.log
+*.out
+
 # ML experiments (keep locally, don't push)
 ML Evaluation/

@@ -1,17 +1,6 @@
-# Runtime artifacts
-*.log
-*.out
-*.csv
-*.xlsx
-HPL.dat
-nohup.out
-
 # Old result directories
 results_hpl*/
 hpl_results*/
 
-# Benchmark output data
-Dataset/
-
-# ML experiments
+# ML experiments (keep locally, don't push)
 ML Evaluation/

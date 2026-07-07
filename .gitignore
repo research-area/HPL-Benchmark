@@ -7,8 +7,9 @@ hpl_results*/
 *.out
 *.txt
 
-# Keep only CSV in arm_benchmark
+# Keep only CSV in benchmark dirs
 Dataset/arm_benchmark/*.xlsx
+Dataset/x86_benchmark/*.xlsx
 
 # ML experiments (keep locally, don't push)
 ML Evaluation/

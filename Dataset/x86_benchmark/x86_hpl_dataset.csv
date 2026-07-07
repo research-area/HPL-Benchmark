@@ -1,5 +1,5 @@
-CPU Utilization [%],Sampling Rate [�s],Threshold [%],Measured MRT [ms],Measured Mean CORE Frequency [KHz],Measured Mean CORE Voltage [V],Measured Utilization [%],Modeled CORE Power [W],Measured CORE Power [W],,,,,ceff
-10,10000,75,339,1398250,0.78,10.62,0.738757886,4.5115,,,,,0.0000172773
+"CPU Utilization [%]","Sampling Rate [�s]","Threshold [%]","Measured MRT [ms]","Measured Mean CORE Frequency [KHz]","Measured Mean CORE Voltage [V]","Measured Utilization [%]","Modeled CORE Power [W]","Measured CORE Power [W]",,,,,ceff
+10,10000,75,339,1398250,0.78,10.62,0.738757886,4.5115,,,,,1.72773E-05
 10,10000,75,345,1399620,0.78,10.61,0.754906857,4.3291,,,,,
 10,10000,75,346,1394560,0.78,10.58,0.75384586,4.316317,,,,,
 10,10000,75,344,1413650,0.78,10.56,0.756041411,4.356683,,,,,

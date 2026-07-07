@@ -5,6 +5,10 @@ hpl_results*/
 # Raw benchmark logs (large, keep locally only)
 *.log
 *.out
+*.txt
+
+# Keep only CSV in arm_benchmark
+Dataset/arm_benchmark/*.xlsx
 
 # ML experiments (keep locally, don't push)
 ML Evaluation/
